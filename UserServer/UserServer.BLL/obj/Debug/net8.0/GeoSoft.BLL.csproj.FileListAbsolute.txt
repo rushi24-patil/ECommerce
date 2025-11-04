@@ -1,0 +1,15 @@
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\bin\Debug\net8.0\GeoSoft.BLL.deps.json
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\bin\Debug\net8.0\GeoSoft.BLL.dll
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\bin\Debug\net8.0\GeoSoft.BLL.pdb
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\bin\Debug\net8.0\GeoSoft.DAL.dll
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\bin\Debug\net8.0\GeoSoft.DAL.pdb
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.csproj.AssemblyReference.cache
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.AssemblyInfoInputs.cache
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.AssemblyInfo.cs
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.csproj.CoreCompileInputs.cache
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft..07939840.Up2Date
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.dll
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\refint\GeoSoft.BLL.dll
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\GeoSoft.BLL.pdb
+E:\vaibhavi\3DViewer-main (1)\3DViewer-main\server\GeoSoft.BLL\obj\Debug\net8.0\ref\GeoSoft.BLL.dll
