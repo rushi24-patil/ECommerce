@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\",
+  "WorkspaceRootPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A78890F-6E81-62F2-6A10-C294FF2175B4}|UserServer.PL\\UserServer.PL.csproj|d:\\shubham_projects\\dockertest\\server\\userserver\\userserver.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8A78890F-6E81-62F2-6A10-C294FF2175B4}|UserServer.PL\\UserServer.PL.csproj|d:\\shubham_projects\\rushirepo\\ecommerce\\userserver\\userserver.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A78890F-6E81-62F2-6A10-C294FF2175B4}|UserServer.PL\\UserServer.PL.csproj|solutionrelative:userserver.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB086D82-D5BF-4E3A-19D7-E842F9BDA3C7}|UserServer.DAL\\UserServer.DAL.csproj|d:\\shubham_projects\\dockertest\\server\\userserver\\userserver.dal\\migrations\\20251027034446_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB086D82-D5BF-4E3A-19D7-E842F9BDA3C7}|UserServer.DAL\\UserServer.DAL.csproj|d:\\shubham_projects\\rushirepo\\ecommerce\\userserver\\userserver.dal\\migrations\\20251027034446_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB086D82-D5BF-4E3A-19D7-E842F9BDA3C7}|UserServer.DAL\\UserServer.DAL.csproj|solutionrelative:userserver.dal\\migrations\\20251027034446_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB086D82-D5BF-4E3A-19D7-E842F9BDA3C7}|UserServer.DAL\\UserServer.DAL.csproj|d:\\shubham_projects\\dockertest\\server\\userserver\\userserver.dal\\migrations\\20251027034446_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB086D82-D5BF-4E3A-19D7-E842F9BDA3C7}|UserServer.DAL\\UserServer.DAL.csproj|d:\\shubham_projects\\rushirepo\\ecommerce\\userserver\\userserver.dal\\migrations\\20251027034446_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB086D82-D5BF-4E3A-19D7-E842F9BDA3C7}|UserServer.DAL\\UserServer.DAL.csproj|solutionrelative:userserver.dal\\migrations\\20251027034446_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\appsettings.json",
+              "DocumentMoniker": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\appsettings.json",
               "RelativeDocumentMoniker": "UserServer.PL\\appsettings.json",
-              "ToolTip": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\appsettings.json",
+              "ToolTip": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\appsettings.json",
               "RelativeToolTip": "UserServer.PL\\appsettings.json",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-27T04:18:44.834Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "20251027034446_InitialCreate.Designer.cs",
-              "DocumentMoniker": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "UserServer.DAL\\Migrations\\20251027034446_InitialCreate.Designer.cs",
-              "ToolTip": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.Designer.cs",
               "RelativeToolTip": "UserServer.DAL\\Migrations\\20251027034446_InitialCreate.Designer.cs",
               "ViewState": "AgIAAHgBAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20251027034446_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.cs",
               "RelativeDocumentMoniker": "UserServer.DAL\\Migrations\\20251027034446_InitialCreate.cs",
-              "ToolTip": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.cs",
+              "ToolTip": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\Migrations\\20251027034446_InitialCreate.cs",
               "RelativeToolTip": "UserServer.DAL\\Migrations\\20251027034446_InitialCreate.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAYwJMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

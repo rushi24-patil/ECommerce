@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\UserServer.PL.csproj": {}
+    "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\UserServer.PL.csproj": {}
   },
   "projects": {
-    "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj": {
+    "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj",
+        "projectUniqueName": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj",
         "projectName": "UserServer.BLL",
-        "projectPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj",
+        "projectPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj",
         "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-        "outputPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.BLL\\obj\\",
+        "outputPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj": {
-                "projectPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj"
+              "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj": {
+                "projectPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj": {
+    "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj",
+        "projectUniqueName": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj",
         "projectName": "UserServer.DAL",
-        "projectPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj",
+        "projectPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj",
         "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-        "outputPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\obj\\",
+        "outputPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,14 +194,14 @@
         }
       }
     },
-    "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\UserServer.PL.csproj": {
+    "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\UserServer.PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\UserServer.PL.csproj",
+        "projectUniqueName": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\UserServer.PL.csproj",
         "projectName": "UserServer.PL",
-        "projectPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\UserServer.PL.csproj",
+        "projectPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\UserServer.PL.csproj",
         "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-        "outputPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.PL\\obj\\",
+        "outputPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.PL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -222,11 +222,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj": {
-                "projectPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj"
+              "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj": {
+                "projectPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.BLL\\UserServer.BLL.csproj"
               },
-              "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj": {
-                "projectPath": "D:\\Shubham_Projects\\DockerTest\\server\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj"
+              "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj": {
+                "projectPath": "D:\\Shubham_Projects\\RushiRepo\\ECommerce\\UserServer\\UserServer.DAL\\UserServer.DAL.csproj"
               }
             }
           }
