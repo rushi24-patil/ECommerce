@@ -1,7 +1,0 @@
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
-D:\Shubham_Projects\server\UserServer\UserServer.PL\obj\Debug\net8.0\staticwebassets.build.json
