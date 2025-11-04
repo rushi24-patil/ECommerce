@@ -1,6 +1,22 @@
-# Ignore Visual Studio files
+# Visual Studio
 .vs/
-*.suo
 *.user
+*.suo
 *.userosscache
 *.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+x64/
+x86/
+*.dll
+*.pdb
+
+# Others
+*.log
+*.cache
+*.db
