@@ -11,8 +11,5 @@ namespace UserServer.DAL.Models
 
         // Navigation Properties
        
-        public ICollection<Project> Projects { get; set; }
-        public ICollection<Permission> Permissions { get; set; }
-        public ICollection<UserProjects> UserProjects { get; set; }
     }
 }

@@ -33,10 +33,7 @@ namespace UserServer.DAL.Repositories
                     Email = u.Email,
                     Role = u.Role,
                     CreatedAt = u.CreatedAt,
-                    ModifiedAt = u.ModifiedAt,
-                    Projects = u.UserProjects  // Get UserProjects for the user
-                        .Select(up => up.Project)  // Include the Project for each UserProject
-                        .ToList()
+                    ModifiedAt = u.ModifiedAt
                 })
                 .FirstOrDefaultAsync();  // Use FirstOrDefaultAsync to get a single user by email
 
@@ -63,10 +60,7 @@ namespace UserServer.DAL.Repositories
                     Email = u.Email,
                     Role = u.Role,
                     CreatedAt = u.CreatedAt,
-                    ModifiedAt = u.ModifiedAt,
-                    Projects = u.UserProjects  
-                        .Select(up => up.Project) 
-                        .ToList()
+                    ModifiedAt = u.ModifiedAt
                 })
                 .ToListAsync();
 

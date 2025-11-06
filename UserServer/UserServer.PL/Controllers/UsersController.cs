@@ -20,13 +20,11 @@ namespace UserServer.BLL.Controllers
         private readonly IUserService _userService;
         private readonly APIResponse _apiResponse;
         private readonly IMapper _automapper;
-        private readonly IUserProjectsService _userProjectsService;
-        public UsersController(IUserService userService, IMapper automapper, IUserProjectsService userProjectsService)
+        public UsersController(IUserService userService, IMapper automapper)
         {
             _userService = userService;
             _automapper = automapper;
             _apiResponse = new APIResponse();
-            _userProjectsService = userProjectsService;
         }
 
         [Authorize(AuthenticationSchemes = "LoginForLocalUser", Roles = "admin")]
@@ -453,82 +451,5 @@ namespace UserServer.BLL.Controllers
         }
 
 
-        [Authorize(AuthenticationSchemes = "LoginForLocalUser", Roles = "admin")]
-        [HttpPost]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status409Conflict)]
-        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        [Route("AssignProjects")]
-        public async Task<IActionResult> AssignProjects(Guid uid, Guid[] pids)
-        {
-            if (uid == Guid.Empty || pids.Length < 1)
-            {
-                return BadRequest(new APIResponse
-                {
-                    StatusCode = 400,
-                    Success = false,
-                    Message = "Invalid project ID or Users Id provided.",
-                    Error = new
-                    {
-                        Code = "INVALID_PROJECT_ID",
-                        Description = "The provided data is empty or invalid."
-                    }
-                });
-
-            }
-            try
-            {
-                bool isAssigned = await _userProjectsService.AssignProjectsToUserAsync(uid, pids);
-
-                if (isAssigned)
-                {
-
-
-                    return CreatedAtAction(nameof(AssignProjects), new APIResponse()
-                    {
-                        StatusCode = 201,
-                        Message = "Projects Assigned successfully",
-                        Success = true,
-                        Data = isAssigned,
-                        Error = null
-                    });
-                }
-                else
-                {
-                    return Conflict(new APIResponse()
-                    {
-                        StatusCode = 409,
-                        Success = false,
-                        Message = "Projects already Assigned",
-                        Error = new
-                        {
-                            Code = "CONFLICT",
-                            Description = "Projects already Assigned"
-                        }
-                    });
-                }
-            }
-            catch (Exception ex)
-            {
-
-                return StatusCode(500, new APIResponse
-                {
-                    StatusCode = 500,
-                    Success = false,
-                    Message = "An unexpected error occurred.",
-                    Error = new
-                    {
-                        Code = "INTERNAL_SERVER_ERROR",
-                        Description = ex.Message
-                    }
-                });
-
-            }
-
-
-
-
-        }
     }
 }

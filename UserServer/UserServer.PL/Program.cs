@@ -76,19 +76,11 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 builder.Services.AddScoped<IUserService,UserService>();
-builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
-builder.Services.AddScoped<IProjectService, ProjectService>();
-builder.Services.AddScoped<ICADFileRepository, CADFileRepository>();
-builder.Services.AddScoped<ICADFileService, CADFileService>();
-builder.Services.AddScoped<ICADFileRepository, CADFileRepository>();
-builder.Services.AddScoped<IUserProjectsService, UserProjectsService>();
-builder.Services.AddScoped<IUserProjectsRepository, UserProjectsRepository>();
 
 
 
 builder.Services.AddTransient<AuthService>();
 builder.Services.AddAutoMapper(typeof(AutoMapperConfig));
-builder.Services.AddScoped<IMinioService, MinioService>();
 
 # region Adding CORS policies to the services   
 

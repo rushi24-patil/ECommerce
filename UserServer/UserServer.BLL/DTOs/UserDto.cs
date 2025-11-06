@@ -9,7 +9,5 @@ namespace UserServer.BLL.DTOs
         public string Email { get; set; }
         public string Role { get; set; }
         public string Password { get; set; }
-        public ICollection<GetUserProjectAllDto> Projects { get; set; }
-        public ICollection<Permission> Permissions { get; set; }
     }
 }
